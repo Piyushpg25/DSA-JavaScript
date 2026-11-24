@@ -9,12 +9,14 @@ A data structure is a way of organizing and storing data so that it can be effic
 Examples:
 - Array
 - String
+- Object
+- Map
+- Set
 - Linked List
 - Stack
 - Queue
 - Tree
 - Graph
-- Hash Map
 
 ## Algorithm
 An algorithm is a step-by-step procedure used to solve a particular problem.
@@ -22,9 +24,8 @@ An algorithm is a step-by-step procedure used to solve a particular problem.
 ## Why Learn DSA?
 - Improve problem-solving skills.
 - Write efficient code.
-- Optimize time and memory usage.
+- Optimize time and space.
 - Prepare for technical interviews.
-- Understand how software works internally.
 
 ## Programming Language
 JavaScript
